@@ -1,3 +1,10 @@
-/*
-!.gitignore
-!dist/
+
+node_modules
+src
+webpack
+.babelrc
+index.html
+LICENSE
+package-lock.json
+package.json
+README.md
